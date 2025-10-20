@@ -9,7 +9,7 @@
 ### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cs,dotnet,react,maui,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,nodejs,js,html,css,git,github,vscode" />
 </p>
 
 ---
