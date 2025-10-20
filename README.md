@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Kamil!</h1>
+<br>
+<p align="center">
+  💻 Developer • 🚀 Freelancer • 🧩 Open-source enthusiast
+</p>
 
-<!--
-**KokeKoke1/KokeKoke1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cs,dotnet,react,maui,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KokeKoke1&theme=tokyonight" alt="GitHub streak" />
+</p>
