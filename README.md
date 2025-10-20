@@ -11,14 +11,7 @@
 </p>
 
 ---
-<div align="center">
-  <span style="display:inline-block">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KokeKoke1&mode=weekly&theme=github-dark-dimmed&hide_border=true&border_radius=8&hide_longest_streak=true&card_height=320" width="350" alt="GitHub streak"/>
-  </span>
-  <span style="display:inline-block">
-    <img src="https://media.pictify.io/mfvut-1760981862990.png" width="345" alt="Playlist"/>
-  </span>
-</div>
-
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kok3&theme=github-dark-dimmed&hide_border=true&border_radius=8&mode=weekly&card_width=400&card_height=250&hide_longest_streak=true)](https://git.io/streak-stats)
+  <img src="https://media.pictify.io/mfvut-1760981862990.png" width="380" alt="Playlist"/>
 
 
