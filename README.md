@@ -11,7 +11,7 @@
 </p>
 
 ---
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kok3&theme=github-dark-dimmed&hide_border=true&border_radius=8&mode=weekly&card_width=400&card_height=250&hide_longest_streak=true)](https://git.io/streak-stats)
-  <img src="https://media.pictify.io/mfvut-1760981862990.png" width="380" alt="Playlist"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KokeKoke1&theme=github-dark-dimmed&hide_border=true&border_radius=8&mode=weekly&card_width=430&card_height=260&hide_longest_streak=true)](https://git.io/streak-stats)
+  <img src="https://media.pictify.io/mfvut-1760981862990.png" width="395" alt="Playlist"/>
 
 
