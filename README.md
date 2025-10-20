@@ -13,10 +13,10 @@
 ---
 <div align="center">
   <span style="display:inline-block">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KokeKoke1&theme=github-dark-dimmed" width="450" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KokeKoke1&mode=weekly&theme=github-dark-dimmed&hide_border=true&border_radius=8&hide_longest_streak=true&card_height=320" width="350" alt="GitHub streak"/>
   </span>
   <span style="display:inline-block">
-    <img src="https://media.pictify.io/mfvut-1760981862990.png" width="270" alt="Playlist"/>
+    <img src="https://media.pictify.io/mfvut-1760981862990.png" width="345" alt="Playlist"/>
   </span>
 </div>
 
